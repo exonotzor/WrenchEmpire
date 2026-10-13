@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Wrench Empire</string>
+    <string name="job_tire_change">Changement de Pneu</string>
+    <string name="job_wheel_balance">Équilibrage des Roues</string>
+    <string name="job_oil_change">Vidange d\'Huile</string>
+    <string name="job_battery_replace">Remplacement Batterie</string>
+    <string name="job_brake_pads">Plaquettes de Frein</string>
+    <string name="job_headlight_adj">Réglage des Phares</string>
+    <string name="job_filter_replace">Remplacement Filtre</string>
+    <string name="job_exhaust_repair">Réparation Échappement</string>
+    <string name="job_ac_recharge">Recharge Climatisation</string>
+    <string name="job_shock_absorber">Amortisseurs</string>
+    <string name="job_windshield">Pare-brise</string>
+    <string name="job_rim_repair">Réparation Jante</string>
+    <string name="job_carburetor">Nettoyage Carburateur</string>
+    <string name="job_differential">Réparation Différentiel</string>
+    <string name="job_electrical_system">Système Électrique</string>
+    <string name="job_gearbox">Réparation Boîte Vitesses</string>
+    <string name="job_brake_overhaul">Révision des Freins</string>
+    <string name="job_bodywork">Carrosserie</string>
+    <string name="job_turbo">Réparation Turbo</string>
+    <string name="job_engine_overhaul">Révision Moteur</string>
+    <string name="job_engine_replace">Remplacement Moteur</string>
+    <string name="job_chassis_repair">Réparation Châssis</string>
+    <string name="unlock">Acheter</string>
+    <string name="hire">Embaucher</string>
+    <string name="upgrade">Améliorer</string>
+    <string name="work">Travailler</string>
+    <string name="running">En cours…</string>
+    <string name="max_level">MAX</string>
+    <string name="welcome_back">Bon retour !</string>
+    <string name="offline_message">Ton équipe a continué à travailler !</string>
+    <string name="earned">Gagné :</string>
+    <string name="collect">COLLECTER !</string>
+    <string name="offline_cap">Limite hors ligne :</string>
+    <string name="select_language">CHOISIR LA LANGUE</string>
+</resources>

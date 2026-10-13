@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Wrench Empire</string>
+    <string name="job_tire_change">Cambio de Neumático</string>
+    <string name="job_wheel_balance">Equilibrado de Ruedas</string>
+    <string name="job_oil_change">Cambio de Aceite</string>
+    <string name="job_battery_replace">Cambio de Batería</string>
+    <string name="job_brake_pads">Pastillas de Freno</string>
+    <string name="job_headlight_adj">Ajuste de Faros</string>
+    <string name="job_filter_replace">Cambio de Filtro</string>
+    <string name="job_exhaust_repair">Reparación de Escape</string>
+    <string name="job_ac_recharge">Recarga de Aire</string>
+    <string name="job_shock_absorber">Amortiguadores</string>
+    <string name="job_windshield">Parabrisas</string>
+    <string name="job_rim_repair">Reparación de Llanta</string>
+    <string name="job_carburetor">Limpieza Carburador</string>
+    <string name="job_differential">Reparación Diferencial</string>
+    <string name="job_electrical_system">Sistema Eléctrico</string>
+    <string name="job_gearbox">Reparación Caja Cambios</string>
+    <string name="job_brake_overhaul">Revisión de Frenos</string>
+    <string name="job_bodywork">Chapa y Pintura</string>
+    <string name="job_turbo">Reparación Turbo</string>
+    <string name="job_engine_overhaul">Revisión de Motor</string>
+    <string name="job_engine_replace">Cambio de Motor</string>
+    <string name="job_chassis_repair">Reparación Chasis</string>
+    <string name="unlock">Comprar</string>
+    <string name="hire">Contratar</string>
+    <string name="upgrade">Mejorar</string>
+    <string name="work">Trabajar</string>
+    <string name="running">Trabajando…</string>
+    <string name="max_level">MÁX</string>
+    <string name="welcome_back">¡Bienvenido de nuevo!</string>
+    <string name="offline_message">¡Tu equipo siguió trabajando!</string>
+    <string name="earned">Ganado:</string>
+    <string name="collect">¡COBRAR!</string>
+    <string name="offline_cap">Límite offline:</string>
+    <string name="select_language">SELECCIONAR IDIOMA</string>
+</resources>

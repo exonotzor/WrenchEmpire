@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Wrench Empire</string>
+    <string name="job_tire_change">Reifenwechsel</string>
+    <string name="job_wheel_balance">Radauswuchten</string>
+    <string name="job_oil_change">Ölwechsel</string>
+    <string name="job_battery_replace">Batteriewechsel</string>
+    <string name="job_brake_pads">Bremsbeläge</string>
+    <string name="job_headlight_adj">Scheinwerfer</string>
+    <string name="job_filter_replace">Filterwechsel</string>
+    <string name="job_exhaust_repair">Auspuffreparatur</string>
+    <string name="job_ac_recharge">Klimaanlage</string>
+    <string name="job_shock_absorber">Stoßdämpfer</string>
+    <string name="job_windshield">Windschutzscheibe</string>
+    <string name="job_rim_repair">Felgenreparatur</string>
+    <string name="job_carburetor">Vergaser Reinigung</string>
+    <string name="job_differential">Differentialreparatur</string>
+    <string name="job_electrical_system">Elektrik Reparatur</string>
+    <string name="job_gearbox">Getriebereparatur</string>
+    <string name="job_brake_overhaul">Bremsrevision</string>
+    <string name="job_bodywork">Karosserie</string>
+    <string name="job_turbo">Turbo Reparatur</string>
+    <string name="job_engine_overhaul">Motor Revision</string>
+    <string name="job_engine_replace">Motoraustausch</string>
+    <string name="job_chassis_repair">Chassis Reparatur</string>
+    <string name="unlock">Kaufen</string>
+    <string name="hire">Einstellen</string>
+    <string name="upgrade">Aufwerten</string>
+    <string name="work">Arbeiten</string>
+    <string name="running">Läuft…</string>
+    <string name="max_level">MAX</string>
+    <string name="welcome_back">Willkommen zurück!</string>
+    <string name="offline_message">Dein Team hat weitergearbeitet!</string>
+    <string name="earned">Verdient:</string>
+    <string name="collect">EINSAMMELN!</string>
+    <string name="offline_cap">Offline-Limit:</string>
+    <string name="select_language">SPRACHE WÄHLEN</string>
+</resources>

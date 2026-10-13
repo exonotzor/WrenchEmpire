@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Wrench Empire</string>
+
+    <!-- Jobs -->
+    <string name="job_tire_change">Tire Change</string>
+    <string name="job_wheel_balance">Wheel Balancing</string>
+    <string name="job_oil_change">Oil Change</string>
+    <string name="job_battery_replace">Battery Replacement</string>
+    <string name="job_brake_pads">Brake Pad Change</string>
+    <string name="job_headlight_adj">Headlight Adjustment</string>
+    <string name="job_filter_replace">Filter Replacement</string>
+    <string name="job_exhaust_repair">Exhaust Repair</string>
+    <string name="job_ac_recharge">AC Recharge</string>
+    <string name="job_shock_absorber">Shock Absorber Swap</string>
+    <string name="job_windshield">Windshield Replacement</string>
+    <string name="job_rim_repair">Rim Repair</string>
+    <string name="job_carburetor">Carburetor Clean</string>
+    <string name="job_differential">Differential Repair</string>
+    <string name="job_electrical_system">Electrical System Fix</string>
+    <string name="job_gearbox">Gearbox Repair</string>
+    <string name="job_brake_overhaul">Brake Overhaul</string>
+    <string name="job_bodywork">Bodywork Straightening</string>
+    <string name="job_turbo">Turbocharger Repair</string>
+    <string name="job_engine_overhaul">Engine Overhaul</string>
+    <string name="job_engine_replace">Engine Replacement</string>
+    <string name="job_chassis_repair">Chassis Repair</string>
+
+    <!-- UI -->
+    <string name="unlock">Unlock</string>
+    <string name="hire">Hire</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="work">Work</string>
+    <string name="running">Running…</string>
+    <string name="max_level">MAX</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="offline_message">Your crew kept working!</string>
+    <string name="earned">Earned:</string>
+    <string name="collect">COLLECT!</string>
+    <string name="offline_cap">Offline cap:</string>
+    <string name="select_language">SELECT LANGUAGE</string>
+</resources>

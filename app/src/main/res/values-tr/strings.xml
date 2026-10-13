@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Wrench Empire</string>
+    <string name="job_tire_change">Lastik Değiştirme</string>
+    <string name="job_wheel_balance">Rot-Balans Ayarı</string>
+    <string name="job_oil_change">Yağ Değişimi</string>
+    <string name="job_battery_replace">Akü Değişimi</string>
+    <string name="job_brake_pads">Fren Balatası</string>
+    <string name="job_headlight_adj">Far Ayarı</string>
+    <string name="job_filter_replace">Filtre Değişimi</string>
+    <string name="job_exhaust_repair">Egzoz Tamiri</string>
+    <string name="job_ac_recharge">Klima Dolumu</string>
+    <string name="job_shock_absorber">Amortisör Değişimi</string>
+    <string name="job_windshield">Cam Değişimi</string>
+    <string name="job_rim_repair">Jant Onarımı</string>
+    <string name="job_carburetor">Karbüratör Temizleme</string>
+    <string name="job_differential">Diferansiyel Tamiri</string>
+    <string name="job_electrical_system">Elektrik Sistemi</string>
+    <string name="job_gearbox">Şanzıman Tamiri</string>
+    <string name="job_brake_overhaul">Fren Sistemi Revizyonu</string>
+    <string name="job_bodywork">Kaporta Düzeltme</string>
+    <string name="job_turbo">Turbo Tamiri</string>
+    <string name="job_engine_overhaul">Motor Revizyonu</string>
+    <string name="job_engine_replace">Motor Değişimi</string>
+    <string name="job_chassis_repair">Şasi Onarımı</string>
+    <string name="unlock">Satın Al</string>
+    <string name="hire">İşe Al</string>
+    <string name="upgrade">Yükselt</string>
+    <string name="work">Çalış</string>
+    <string name="running">Çalışıyor…</string>
+    <string name="max_level">MAX</string>
+    <string name="welcome_back">Tekrar Hoş Geldin!</string>
+    <string name="offline_message">Ekibin çalışmaya devam etti!</string>
+    <string name="earned">Kazanılan:</string>
+    <string name="collect">TOPLA!</string>
+    <string name="offline_cap">Çevrimdışı sınır:</string>
+    <string name="select_language">DİL SEÇ</string>
+</resources>
